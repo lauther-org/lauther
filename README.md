@@ -9,3 +9,7 @@ Esto puede ayudar a familias latinoamericanas, fugitivos de guerra, gente inocen
 Probablemente esta moneda sera una criptomoneda. Crearemos nuestra propia blockchain y debemos determinar aún cómo es que le daremos un valor al activo (crear una stablecoin podría ser una opción a barajar).
 
 También se puede aprovechar la implementación de una blockchain propia para crear un sistema de chat anónimo y seguro.
+
+## Webs
+
+ - https://impulso06.com/guia-de-blockchain-desde-0/
