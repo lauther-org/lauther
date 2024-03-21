@@ -1,6 +1,3 @@
-Claro, aquí tienes una versión modificada del código que implementa un método de consenso de Prueba de Participación (Proof of Stake, PoS):
-
-```python
 import hashlib
 import json
 from time import time
@@ -171,6 +168,3 @@ block = blockchain.new_block(proof, previous_hash)
 
 # Imprimir la cadena
 print(json.dumps(blockchain.chain, indent=4))
-```
-
-Esta versión del código ahora incluye un método `proof_of_stake()` que representa el algoritmo de consenso Proof of Stake. Aquí deberías implementar el algoritmo específico para tu blockchain. Además, se han agregado métodos para registrar nodos en la red, resolver conflictos entre nodos y verificar la validez de la cadena.
